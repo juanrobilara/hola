@@ -21,7 +21,7 @@ public class holis {
 		
 		public void decirHola() {
 			
-			System.out.println("hola");
+			System.out.println("chau");
 		}
 		
 	
